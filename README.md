@@ -35,26 +35,38 @@ Alternative Hypothesis (H1): There is a difference in the mean total costs of sp
 The analysis of insurance payments revealed significant differences across the states:
 
 State	    Mean Total Spine Surgery Cost (Distinction 1)	  Mean Total Spine Surgery Cost (Distinction 0)
+
 Texas	    $252,615.03	                                    $137,573.06
+
 Georgia	  $267,520.63	                                    $160,849.16
+
 Ohio	    $242,651.79	                                    $145,363.56
+
 Colorado	$326,454.00	                                    $231,714.00
+
 Michigan	$217,390.74	                                    $144,292.39
 
 **T-Test Results**
 The t-test results indicated statistically significant differences in payments:
 
 State	      T-Statistic	    P-Value
+
 Texas	      7.825	          2.02E-13
+
 Georgia	    6.643	          1.87E-09
+
 Ohio	      8.671	          2.15E-14
+
 Colorado	  2.781	          1.10E-02
+
 Michigan	  6.342	          5.83E-09
 
 **Key Findings**
 
 **Higher Payments for Distinguished Hospitals:** Hospitals with Blue Distinction or Distinction+ designations consistently reported higher mean total spine surgery costs across all states.
+
 **Statistical Significance:** The t-tests showed high t-statistics and low p-values, indicating that the differences in payments are statistically significant.
+
 **Quality Implications:** The higher payments reflect the investments that distinguished hospitals make in patient safety and treatment quality, which likely leads to better health outcomes.
 
 **Visualization**
@@ -67,6 +79,8 @@ The analysis demonstrates that insurance companies provide higher reimbursement 
 
 **Recommendations**
 
-For Hospitals: Pursue Blue Distinction or Distinction+ designations to secure higher reimbursement rates and enhance their marketability.
-For Insurance Companies: Continue to incentivize high-quality care by offering higher payments to distinguished hospitals, thereby fostering an environment focused on patient safety and effective treatments.
-For Policy Makers: Support initiatives that encourage hospitals to achieve high standards of care and enhance transparency in healthcare quality metrics.
+**For Hospitals:** Pursue Blue Distinction or Distinction+ designations to secure higher reimbursement rates and enhance their marketability.
+
+**For Insurance Companies:** Continue to incentivize high-quality care by offering higher payments to distinguished hospitals, thereby fostering an environment focused on patient safety and effective treatments.
+
+**For Policy Makers:** Support initiatives that encourage hospitals to achieve high standards of care and enhance transparency in healthcare quality metrics.
